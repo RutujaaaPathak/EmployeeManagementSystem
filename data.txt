@@ -1,0 +1,19 @@
+************************ SALARY MANAGERMENT SYSTEM ************************
+
+			Employe Name : Aadesh Gavhane
+			Employee ID  : 902688
+			Basic Salary : Rs. 50000
+			DA           : 37250
+			HRA          : 15000
+			Gross Salary : Rs. 102250
+
+**************************************************************************
+
+			Employe Name : Rutuja Pathak
+			Employee ID  : 902678
+			Basic Salary : Rs. 80000
+			DA           : 59600
+			HRA          : 24000
+			Gross Salary : Rs. 163600
+
+**************************************************************************
